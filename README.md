@@ -13,7 +13,6 @@
 
 - 👯 I’m looking to collaborate on  
   **Open Source / Web Development / Competitive Programming Projects**  
-  🔗 https://github.com/rudrabokade/project-link
 
 - 🌱 I’m currently learning  
   **Data Structures & Algorithms, Web Development, Core Computer Engineering Subjects**
@@ -38,7 +37,7 @@
 ## 🛠 Skills
 
 ### 🔹 Programming Languages
-`C` `C++` `JavaScript` `Python`
+`C` `C++` `Python`
 
 ---
 
@@ -68,7 +67,6 @@
 
 ---
 
-
 ## 🌐 Connect With Me
 
 - 🐙 GitHub: https://github.com/rudrabokade  
@@ -81,4 +79,3 @@
 ---
 
 ⭐ **If you like my work, consider giving a star to my repositories!**
-
