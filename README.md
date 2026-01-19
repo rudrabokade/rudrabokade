@@ -1,81 +1,101 @@
-# Hi 👋, I'm Rudra Bokade
+<h1 align="center">Hi 👋, I'm Rudra Bokade</h1>
+<h3 align="center">A passionate Computer Engineering student from India 🇮🇳</h3>
 
-### A passionate Computer Engineering student from India 🇮🇳
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=2nd+Year+Computer+Engineering+Student;Learning+DSA+and+Web+Development;Aspiring+Software+Engineer" alt="Typing SVG" />
+</p>
 
----
-
-## 🚀 About Me
-
-- 🎓 I’m a **2nd Year Computer Engineering Student**
-- 🔭 I’m currently working on  
-  **Project Name**  
-  🔗 https://github.com/rudrabokade/medical-shop
-
-- 👯 I’m looking to collaborate on  
-  **Open Source / Web Development / Competitive Programming Projects**  
-
-- 🌱 I’m currently learning  
-  **Data Structures & Algorithms, Web Development, Core Computer Engineering Subjects**
-
-- 💬 Ask me about  
-  **C++, DSA**
-
-- 📫 How to reach me  
-  **geniusrudra1729@gmail.com**
-
-- 👨‍💻 All of my projects are available at  
-  🔗 https://github.com/rudrabokade
-
-- 📄 Know about my experiences  
-  🔗 https://your-resume-link.com
-
-- ⚡ Fun fact  
-  **I think I am funny 😄**
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rudrabokade&label=Profile%20Views&color=blue&style=flat" alt="profile views" />
+</p>
 
 ---
 
-## 🛠 Skills
+## 👨‍💻 About Me  
 
-### 🔹 Programming Languages
-`C` `C++` `Python`
-
----
-
-### 🎨 Frontend Development
-`HTML5` `CSS3` `JavaScript`  
-
----
-
-### 🤖 AI / ML (Basics)
-`Python` `Pandas` `NumPy`  
-`Scikit-learn` 
+- 🎓 **2nd Year Computer Engineering Student**  
+- 🔭 Currently working on **Medical Shop Website**  
+  🔗 https://github.com/rudrabokade/medical-shop  
+- 🌱 Learning **Data Structures & Algorithms, Web Development, Core CS**  
+- 👯 Open to collaborate on **Open Source & Competitive Programming**  
+- 💬 Ask me about **C++, DSA**  
+- 📫 Email: **geniusrudra1729@gmail.com**  
+- ⚡ Fun fact: **I think I am funny 😄**
 
 ---
 
-### 🗄 Database (Basics)
-`MySQL`
+## 🛠 Tech Stack  
+
+### 💻 Programming Languages  
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python" />
+</p>
+
+### 🎨 Frontend  
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
+
+### 🤖 AI / ML (Basics)  
+<p>
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+### 🗄 Database  
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+### ⚙️ Tools  
+<p>
+  <img src="https://skillicons.dev/icons?i=github,vscode" />
+</p>
 
 ---
 
-### ☁️ DevOps (Basics)
-`Git` `GitHub` 
+## 🏆 GitHub Trophies  
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rudrabokade&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
 
 ---
 
-### 🎨 Software & Tools
-`VS Code`
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rudrabokade&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rudrabokade&theme=tokyonight" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudrabokade&layout=compact&theme=tokyonight"/>
+</p>
 
 ---
 
-## 🌐 Connect With Me
+## 📈 Contribution Graph  
 
-- 🐙 GitHub: https://github.com/rudrabokade  
-- 🐦 Twitter: https://twitter.com/rudrabokade  
-- 💼 LinkedIn: https://linkedin.com/in/rudrabokade   
-- 🧠 LeetCode: https://leetcode.com/rudrabokade  
-- ⚔ CodeChef: https://www.codechef.com/users/rudrabokade  
-- 🧩 HackerRank: https://www.hackerrank.com/rudrabokade    
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rudrabokade&theme=tokyo-night"/>
+</p>
 
 ---
 
-⭐ **If you like my work, consider giving a star to my repositories!**
+## 🌐 Connect With Me  
+
+<p align="center">
+  <a href="https://github.com/rudrabokade"><img src="https://skillicons.dev/icons?i=github" /></a>
+  <a href="https://twitter.com/rudrabokade"><img src="https://skillicons.dev/icons?i=twitter" /></a>
+  <a href="https://linkedin.com/in/rudrabokade"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+</p>
+
+<p align="center">
+  🧠 <a href="https://leetcode.com/rudrabokade">LeetCode</a> • 
+  ⚔ <a href="https://www.codechef.com/users/rudrabokade">CodeChef</a> • 
+  🧩 <a href="https://www.hackerrank.com/rudrabokade">HackerRank</a>
+</p>
+
+---
+
+⭐ **If you like my work, consider giving a star ⭐ to my repositories!**
