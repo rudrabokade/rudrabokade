@@ -56,7 +56,7 @@
 ## 🏆 GitHub Trophies  
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rudrabokade&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=rudrabokade&theme=tokyonight&no-frame=true&row=1&column=6&cache_seconds=86400" />
 </p>
 
 ---
@@ -64,12 +64,11 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rudrabokade&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rudrabokade&theme=tokyonight" height="170"/>
-</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=rudrabokade&show_icons=true&theme=tokyonight&cache_seconds=86400"/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudrabokade&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rudrabokade&theme=tokyonight&cache_seconds=86400"/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudrabokade&layout=compact&theme=tokyonight&cache_seconds=86400"/>
 </p>
 
 ---
