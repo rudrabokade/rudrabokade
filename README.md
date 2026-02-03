@@ -76,7 +76,7 @@
 ## 📈 Contribution Graph  
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=rudrabokade&theme=tokyo-night&cache_seconds=86400" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rudrabokade&theme=tokyo-night"/>
 </p>
 
 ---
