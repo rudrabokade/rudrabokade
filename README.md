@@ -76,7 +76,7 @@
 ## 📈 Contribution Graph  
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rudrabokade&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rudrabokade&theme=tokyo-night&hide_border=true&area=true&cache_seconds=3600" />
 </div>
 
 ---
