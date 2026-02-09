@@ -66,7 +66,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rudrabokade&show_icons=true&theme=tokyonight&cache_seconds=86400"/>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rudrabokade&theme=tokyonight&cache_seconds=86400"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rudrabokade&theme=tokyonight&cache_seconds=3600" />
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudrabokade&layout=compact&theme=tokyonight&cache_seconds=86400"/>
 </p>
