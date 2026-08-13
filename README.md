@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Computer Engineering student from India 🇮🇳</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=2nd+Year+Computer+Engineering+Student;Learning+DSA+and+Web+Development;Aspiring+Software+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=3rd+Year+Computer+Engineering+Student;Learning+DSA+and+Web+Development;Aspiring+Software+Engineer" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@
 
 ## 👨‍💻 About Me  
 
-- 🎓 **2nd Year Computer Engineering Student**  
+- 🎓 **3rd Year Computer Engineering Student**  
 - 🔭 Currently working on **Medical Shop Website**  
   🔗 https://github.com/rudrabokade/medical-shop  
 - 🌱 Learning **Data Structures & Algorithms, Web Development, Core CS**  
